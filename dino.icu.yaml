@@ -349,6 +349,11 @@ geta: # yoda - https://getadinoicu.yodacode.repl.co/dino.png - get a dino from h
   type: CNAME
   value: ef35bb48-f121-4f7f-91f6-93f601559c24.id.repl.co.
 
+hackbox:
+  - ttl: 600
+    type: CNAME
+    value: hackbox-indol.vercel.app.
+
 hacktive: # Origamibooklover@gmail.com
   - ttl: 600
     type: CNAME
@@ -951,3 +956,5 @@ willgob: # williamnumismatics@gmail.com
   - ttl: 600
     type: CNAME
     value: cname.vercel-dns.com.
+
+
