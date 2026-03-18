@@ -351,8 +351,8 @@ geta: # yoda - https://getadinoicu.yodacode.repl.co/dino.png - get a dino from h
 
 hackbox: # Aron - U0A3HLREX29
   - ttl: 600
-    type: CNAME
-    value: cname.vercel-dns.com.
+    type: A
+    value: 216.198.79.1
 
 hacktive: # Origamibooklover@gmail.com
   - ttl: 600
